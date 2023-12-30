@@ -34,3 +34,9 @@ Program to implement the given logic function and to verify its operations in qu
 ## Truth Table
 ![1](https://github.com/Kershombalaji/Experiment_02_Implementation_of_combinational_logic/assets/155218041/a113be2e-1db7-484e-a58e-a04bbc52e02a)
 
+### Timing Diagram
+
+![2](https://github.com/Kershombalaji/Experiment_02_Implementation_of_combinational_logic/assets/155218041/a6424949-fff0-4a49-b94e-82bf7fd24864)
+
+### Result:
+Thus the given logic functions are implemented and their operations are verified using Verilog programming.
