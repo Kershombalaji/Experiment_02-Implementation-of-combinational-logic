@@ -1,4 +1,4 @@
-# Experiment 02-Implementation of Combinational Logic
+# Experiment 02-Implementation of Combinational Logic Circuit using Verilog HDL.
 
 ### NAME : BALAJI V
 ### REGISTER NUMBER :212223050008
