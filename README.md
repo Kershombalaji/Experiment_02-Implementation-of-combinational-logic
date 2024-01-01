@@ -1,3 +1,6 @@
+## NAME : BALAJI V
+## REGISTER NUMBER :212223050008
+
 # Experiment_02_Implementation_of_combinational_logic
 Experiment--02-Implementation-of-combinational-logic
 Implementation of combinational logic gates
