@@ -1,9 +1,7 @@
 ## NAME : BALAJI V
 ## REGISTER NUMBER :212223050008
 
-# Experiment_02_Implementation_of_combinational_logic
-Experiment--02-Implementation-of-combinational-logic
-Implementation of combinational logic gates
+# Experiment 02-Implementation of Combinational Logic
 
 ### AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming. F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D F2=xy’z+x’y’z+w’xy+wx’y+wxy
